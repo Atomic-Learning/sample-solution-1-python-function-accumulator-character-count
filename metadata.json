@@ -1,0 +1,18 @@
+{
+    "title": "Sample Solution 1: Python Function Character Counting in Sequences",
+    "slug": "sample-solution-1-python-function-accumulator-character-count",
+    "description": "Worked solution for counting occurrences of a target character in a sequence using a Python function.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "sample-solution",
+        "python"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "exercise-python-function-accumulator-character-count"
+    ],
+    "related": [
+    ]
+}
